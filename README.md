@@ -10,6 +10,7 @@ Site fictício que oferece serviços de montagem de bicicletas personalizadas.
 * [x] HTML semântico, otimização de imagens e arquivos CSS, SEO e utilização do Google Analytics
 * [ ] Estilos desenvolvidos com SASS/SCSS
 * [x] Funcionalidade de menu ativo selecionado quando estiver na página
+* [x] Funcionalidade Parâmetros URL
 
 ## Tecnologias Utilizadas:
 <div>
