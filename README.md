@@ -6,9 +6,10 @@ Projeto feito para praticar todos os conceitos aprendidos em HTML5, CSS3 com SAS
 Design no [Figma](https://www.figma.com/file/2MpYDrRf4PMODmO7H9YbMB/bikcraft?node-id=0%3A1).
 
 ## Descrição: 
-Site fictício que oferece serviços de montagem de bicicletas personalizadas. Alterações: 
+Site fictício que oferece serviços de montagem de bicicletas personalizadas. 
 * [x] HTML semântico, otimização de imagens e arquivos CSS, SEO e utilização do Google Analytics
-* [] Estilos desenvolvidos com SASS/SCSS
+* [ ] Estilos desenvolvidos com SASS/SCSS
+* [x] Funcionalidade de menu ativo selecionado quando estiver na página
 
 ## Tecnologias Utilizadas:
 <div>
