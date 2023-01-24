@@ -11,6 +11,7 @@ Site fictício que oferece serviços de montagem de bicicletas personalizadas.
 * [ ] Estilos desenvolvidos com SASS/SCSS
 * [x] Funcionalidade de menu ativo selecionado quando estiver na página
 * [x] Funcionalidade Parâmetros URL
+* [x] Funcionalidade Accordion List em perguntas frequentes
 
 ## Tecnologias Utilizadas:
 <div>
