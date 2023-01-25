@@ -15,6 +15,7 @@ Site fictício que oferece serviços de montagem de bicicletas personalizadas.
 * [x] Parâmetros URL
 * [x] Accordion List em perguntas frequentes
 * [x] Trocar imagens da galeria de bicicletas ao clique
+* [x] Plugin animar
 
 ## Tecnologias Utilizadas:
 <div>
