@@ -9,9 +9,12 @@ Design no [Figma](https://www.figma.com/file/2MpYDrRf4PMODmO7H9YbMB/bikcraft?nod
 Site fictício que oferece serviços de montagem de bicicletas personalizadas. 
 * [x] HTML semântico, otimização de imagens e arquivos CSS, SEO e utilização do Google Analytics
 * [ ] Estilos desenvolvidos com SASS/SCSS
-* [x] Funcionalidade de menu ativo selecionado quando estiver na página
-* [x] Funcionalidade Parâmetros URL
-* [x] Funcionalidade Accordion List em perguntas frequentes
+
+## Funcionalidades: 
+* [x] Menu ativo selecionado quando estiver na página
+* [x] Parâmetros URL
+* [x] Accordion List em perguntas frequentes
+* [x] Trocar imagens da galeria de bicicletas ao clique
 
 ## Tecnologias Utilizadas:
 <div>
