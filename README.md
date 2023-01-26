@@ -16,6 +16,7 @@ Site fictício que oferece serviços de montagem de bicicletas personalizadas.
 * [x] Accordion List em perguntas frequentes
 * [x] Trocar imagens da galeria de bicicletas ao clique
 * [x] Plugin animar ao carregar as páginas home e seguros
+* [x] Conexão dos formulários de contato com o e-mail usando o plugin [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 ## Tecnologias Utilizadas:
 <div>
